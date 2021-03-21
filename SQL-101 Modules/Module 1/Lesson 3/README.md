@@ -1,3 +1,12 @@
+![img](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/blob/main/SQL-101%20Modules/Module%201/Lesson%203/images/lesson%203.png)
+
+[Ссылка на PostgreSQL (Windows installers)](https://www.postgresql.org/download/windows/)
+
+[Ссылка на PostgreSQL Database Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+
+[Прямая сcылка на сам установочный файл PostgreSQL 13.2 для Windows](https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=437)
+
+[Ccылка на сервис SQLizer, сервис, который позволяет конвертировать наши таблицы в csv формате в инструкции для создания таблиц в базе данных и наполнения их данными](https://sqlizer.io/#/)
 
 **Ccылки на скачивание необходимых csv файлов, которые используются в уроке:**<br>
  - [avocado_prices.csv](https://raw.githubusercontent.com/AnatoliiBalakiriev/sql_video_course_for_beginners/main/SQL-101%20Modules/Module%201/Lesson%203/CSV%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B/avocado_prices.csv)
