@@ -1,3 +1,5 @@
+[**Ссылка на 2-jй видеоурок на Youtube**](https://www.youtube.com/watch?v=XAXDxpQcTfk)
+
 ![img](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/blob/main/SQL-101%20Modules/Module%201/Lesson%202/images/lesson%202.png)
 
 [Ccылка на онлайн инструмент **pgAdmin** для работы с базами данных](https://www.pgadmin.org/try/)
