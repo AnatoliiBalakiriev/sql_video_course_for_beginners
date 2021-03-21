@@ -1,3 +1,5 @@
+[**Ссылка на 4-ый видеоурок на Youtube**](https://www.youtube.com/watch?v=iLk8x8IY7DM)
+
 ![img](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/blob/main/SQL-101%20Modules/Module%201/Lesson%204/images/lesson%204.png)
 
 **Ccылки на скачивание используемых готовых sql файлов в видео, которые достаточно открыть в pgAdmin и выполнить:**
