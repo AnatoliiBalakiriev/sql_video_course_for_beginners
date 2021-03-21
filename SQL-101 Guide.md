@@ -38,8 +38,6 @@
 
 [Уровень 1️⃣:](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/tree/main/SQL-101%20Modules/Module%201/README.md)
 
-🔑[Введение перед курсом](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/tree/main/SQL-101%20Modules/Module%201/Lesson%200%20(Introduction)/README.md)
-
 🔑[Первое знакомство с базами данных](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/tree/main/SQL-101%20Modules/Module%201/Lesson%201/README.md)
 
 🔑[pgAdmin, SELECT  и арифметические операции](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/tree/main/SQL-101%20Modules/Module%201/Lesson%202/README.md)
