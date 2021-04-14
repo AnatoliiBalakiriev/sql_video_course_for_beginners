@@ -4,7 +4,7 @@
 
 [**Ссылка на 29-ый видеоурок на Youtube (часть 2)**](https://youtu.be/n_QYoxjqYmo)
 
-![img](hhttps://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/blob/main/SQL-101%20Modules/Module%203/Lesson%2029/images/lesson%2029_2.png)
+![img](https://github.com/AnatoliiBalakiriev/sql_video_course_for_beginners/blob/main/SQL-101%20Modules/Module%203/Lesson%2029/images/lesson%2029_2.png)
 
 **Разница между хранимыми процедурами и пользовательскими функциями**
 
